@@ -7,7 +7,7 @@ Course Tweaker is an automated course recommendation system designed to help use
 - Chatbot Integration: A machine learning-driven chatbot, integrated with Flask, PyCharm, and various libraries, assists users in exploring course options and provides assistance based on natural language inputs. Training and testing are facilitated in Jupyter notebooks for efficient dataset refinement and model development.  
 - Filtering and Feedback Loop: User preferences and feedback are continuously collected and processed to enhance the recommendation system's accuracy through a feedback loop mechanism.  
 - Final Confirmation and Multiple Course References: Upon receiving course recommendations, users are presented with multiple options and detailed course information for informed decision-making.
-[Flowchart](https://github.com/yansh985/Course-Recommendation-Tool/assets/140264480/4b99c293-7722-4200-bcde-dffdd747498e)
+- [Flowchart](https://github.com/yansh985/Course-Recommendation-Tool/assets/140264480/4b99c293-7722-4200-bcde-dffdd747498e)
 
 # Workflow
 1) Importing the dataset.
