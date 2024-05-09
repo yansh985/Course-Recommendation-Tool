@@ -4,7 +4,7 @@ Course Tweaker is an automated course recommendation system designed to help use
 # Features
 - Homepage & Dashboard: Users are greeted with an intuitive dashboard upon login, featuring interactive charts and elements powered by Chart.js.
 - Course Recommendation Engine: Leveraging a dataset from Udemy, the recommendation engine employs custom algorithms such as Cosine Similarity and Linear Similarity to suggest courses tailored to each user's interests.
-- Chatbot Integration: A machine learning-driven chatbot, integrated with Flask, PyCharm, and various libraries, assists users in exploring course options and provides assistance based on natural language inputs. Training and testing are facilitated in Jupyter Notebook for efficient dataset refinement and model development.  
+- Chatbot Integration: A machine learning-driven chatbot, integrated with Flask framework and various libraries, assists users in exploring course options and provides assistance based on natural language inputs. Training and testing are facilitated in Jupyter Notebook for efficient dataset refinement and model development.  
 - Filtering and Feedback Loop: User preferences and feedback are continuously collected and processed to enhance the recommendation system's accuracy through a feedback loop mechanism.  
 - Final Confirmation and Multiple Course References: Upon receiving course recommendations, users are presented with multiple options and detailed course information for informed decision-making.
 - [Flowchart](https://github.com/yansh985/Course-Recommendation-Tool/assets/140264480/4b99c293-7722-4200-bcde-dffdd747498e)
@@ -32,6 +32,7 @@ To get started with Course Tweaker, follow these steps:
 4. Go to your browser and type http://127.0.0.1:5000/ in the address bar.
 5. Hurray, that's it!
 
+# If you like this mini project, star this repository.
 
 ------
 # Contributing
