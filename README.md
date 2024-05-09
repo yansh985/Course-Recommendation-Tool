@@ -1,4 +1,4 @@
-[PPT and Implementation.pdf](https://github.com/yansh985/Course-Recommendation-Tool/files/15261103/PPT.and.Implementation.pdf)# Course Tweaker - Automated Course Recommendation System using Udmey Dataset
+# Course Tweaker - Automated Course Recommendation System using Udmey Dataset
 Course Tweaker is an automated course recommendation system designed to help users discover relevant courses based on their preferences and feedback. This system utilizes machine learning techniques, natural language processing (NLP), and interactive dashboards to provide personalized course suggestions. Using the "neattext" library which is used in Natural Language processing helps in removing stop words, and special characters, and also helps in stemming, lemmatization, and many more in NLP.
 
 # Features
