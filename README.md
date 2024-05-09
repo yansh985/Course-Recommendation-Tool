@@ -1,4 +1,4 @@
-# Course Tweaker - Automated Course Recommendation System using Udmey Dataset
+[PPT and Implementation.pdf](https://github.com/yansh985/Course-Recommendation-Tool/files/15261103/PPT.and.Implementation.pdf)# Course Tweaker - Automated Course Recommendation System using Udmey Dataset
 Course Tweaker is an automated course recommendation system designed to help users discover relevant courses based on their preferences and feedback. This system utilizes machine learning techniques, natural language processing (NLP), and interactive dashboards to provide personalized course suggestions. Using the "neattext" library which is used in Natural Language processing helps in removing stop words, and special characters, and also helps in stemming, lemmatization, and many more in NLP.
 
 # Features
@@ -7,7 +7,8 @@ Course Tweaker is an automated course recommendation system designed to help use
 - Chatbot Integration: A machine learning-driven chatbot, integrated with Flask framework and various libraries, assists users in exploring course options and provides assistance based on natural language inputs. Training and testing are facilitated in Jupyter Notebook for efficient dataset refinement and model development.  
 - Filtering and Feedback Loop: User preferences and feedback are continuously collected and processed to enhance the recommendation system's accuracy through a feedback loop mechanism.  
 - Final Confirmation and Multiple Course References: Upon receiving course recommendations, users are presented with multiple options and detailed course information for informed decision-making.
-- [Flowchart](https://github.com/yansh985/Course-Recommendation-Tool/assets/140264480/4b99c293-7722-4200-bcde-dffdd747498e)
+- [Flowchart](https://github.com/yansh985/Course-Recommendation-Tool/assets/140264480/4b99c293-7722
+- [PPT and Implementation.pdf](https://github.com/yansh985/Course-Recommendation-Tool/files/15261108/PPT.and.Implementation.pdf)
 
 # Workflow
 1) Importing the dataset.
