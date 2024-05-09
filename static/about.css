@@ -1,0 +1,59 @@
+/* Styles for header */
+header {
+    background-color: #6b24a5;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Styles for main content sections */
+section {
+    margin-bottom: 40px;
+}
+
+/* Styles for footer */
+footer {
+    background-color: #6b24a5;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* General styles for list items */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Styles for main heading */
+h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+/* Styles for section headings */
+h2 {
+    color: #6b24a5;
+}
+
+/* Styles for links */
+a {
+    color: #6b24a5;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Styles for footer */
+footer {
+    background-color: #6b24a5;
+    color: white;
+    padding: 20px;
+}
+
+/* Styles for technological stack */
+.technological-stack {
+    text-align: left;
+}
