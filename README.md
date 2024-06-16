@@ -41,6 +41,12 @@ To get started with Course Tweaker, follow these steps:
 # Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request.
 
+## Contact
+For any questions or suggestions, please contact:
+- **Name:** Ansh Yadav
+- **Email:** yansh985@gmail.com
+
+Feel free to adjust the contact email and any other details as needed.
 
 ------
 # References
