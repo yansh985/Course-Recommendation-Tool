@@ -17,7 +17,7 @@ Course Tweaker is an automated course recommendation system designed to help use
 2) Performed Text Processing and EDA and generated insights, then converted text to numeric values.
 3) After converting text to numeric values, will calculate the cosine similarity score.
 4) Then will sort the values that will have similar similarity scores and recommend the course.
-5) Integrate the Recommendation System with FLASK Framework.
+5) Integrate the Recommendation System with the FLASK Framework.
 
 # Technological Stack
 - Frontend: HTML, CSS, JavaScript for user interface development.
@@ -37,7 +37,6 @@ To get started with Course Tweaker, follow these steps:
 
 # If you like this mini project, star this repository.
 
-------
 # Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request.
 
@@ -48,6 +47,5 @@ For any questions or suggestions, please contact:
 
 Feel free to adjust the contact email and any other details as needed.
 
-------
 # References
 https://github.com/pratik9409/Course_recommendation
