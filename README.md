@@ -1,12 +1,12 @@
 # Course Tweaker - Automated Course Recommendation System using Udmey Dataset
-Course Tweaker is an automated course recommendation system designed to help users discover relevant courses based on their preferences and feedback. This system utilizes machine learning techniques, natural language processing (NLP), and interactive dashboards to provide personalized course suggestions. Using the "neattext" library which is used in Natural Language processing helps in removing stop words, and special characters, and also helps in stemming, lemmatization, and many more in NLP.
+Course Tweaker is an automated course recommendation system designed to help users discover relevant courses based on their preferences and feedback. This system utilizes machine learning techniques, natural language processing (NLP), and interactive dashboards to provide personalized course suggestions. Using the "neattext" library used in Natural Language processing helps remove stop words, and special characters, and also helps in stemming, lemmatization, and many more in NLP.
 
 # Features
-- Homepage & Dashboard: Users are greeted with an intuitive dashboard upon login, featuring interactive charts and elements powered by Chart.js.
-- Course Recommendation Engine: Leveraging a dataset from Udemy, the recommendation engine employs custom algorithms such as Cosine Similarity and Linear Similarity to suggest courses tailored to each user's interests.
+Homepage & Dashboard: Upon login, users are greeted with an intuitive dashboard featuring interactive charts and elements powered by Chart.js.
+Course Recommendation Engine: The recommendation engine leverages a dataset from Udemy and employs custom algorithms, such as Cosine Similarity and linear similarity, to suggest courses tailored to each user's interests.
 - Chatbot Integration: A machine learning-driven chatbot, integrated with Flask framework and various libraries, assists users in exploring course options and provides assistance based on natural language inputs. Training and testing are facilitated in Jupyter Notebook for efficient dataset refinement and model development.  
 - Filtering and Feedback Loop: User preferences and feedback are continuously collected and processed to enhance the recommendation system's accuracy through a feedback loop mechanism.  
-- Final Confirmation and Multiple Course References: Upon receiving course recommendations, users are presented with multiple options and detailed course information for informed decision-making.
+Final Confirmation and Multiple Course References: After receiving course recommendations, users are presented with multiple options and detailed course information to make informed decisions.
 
 
 - [Flowchart](https://github.com/yansh985/Course-Recommendation-Tool/assets/140264480/70ed6f66-25b5-4b97-974a-aeacdc835831)
@@ -23,7 +23,7 @@ Course Tweaker is an automated course recommendation system designed to help use
 - Frontend: HTML, CSS, JavaScript for user interface development.
 - Backend: Flask for server-side development.  
 - Machine Learning and NLP: Jupyter notebooks, scikit-learn, "neattext" library for data preprocessing and model training.
-- Recommendation Engine: Custom algorithms utilizing Cosine Similarity, Linear Similarity for course recommendation.
+- Recommendation Engine: Custom algorithms utilizing Cosine Similarity and Linear Similarity for course recommendation.
 - Chatbot: NLP-based chatbot integrated with Flask for natural language interactions.
 - Dashboard: Chart.js for dynamic and visually appealing data visualization.
 
@@ -46,6 +46,3 @@ For any questions or suggestions, please contact:
 - **Email:** yansh985@gmail.com
 
 Feel free to adjust the contact email and any other details as needed.
-
-# References
-https://github.com/pratik9409/Course_recommendation
